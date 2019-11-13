@@ -1,3 +1,7 @@
+
+'''The module's goal is to return the birthdays' dates of famous people'''
+
+
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
