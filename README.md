@@ -18,6 +18,6 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 GENIT CE LA FAREMO by Clod
 =======
 
-
+H-FARM(1st issue)
 THIS IS LUCY'S CHANGES
 >>>>>>> ec7dad657fe60d171c44b30f4b05bb098e8eecaa
