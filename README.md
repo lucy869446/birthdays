@@ -20,4 +20,6 @@ GENIT CE LA FAREMO by Clod
 
 H-FARM(1st issue)
 THIS IS LUCY'S CHANGES
+
+kla changes
 >>>>>>> ec7dad657fe60d171c44b30f4b05bb098e8eecaa
