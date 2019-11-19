@@ -17,7 +17,7 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 <<<<<<< HEAD
 GENIT CE LA FAREMO by Clod
 =======
-
+kla changes!
 H-FARM(1st issue)
 THIS IS LUCY'S CHANGES
 
