@@ -1,5 +1,5 @@
 
-'''The module's goal is to return the birthdays' dates of famous people'''
+'''The module's goal is to return the birthdays' dates of famous people!'''
 
 
 birthdays = {
